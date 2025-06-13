@@ -103,4 +103,7 @@ footer {
   .ponto p {
     font-size: 0.85rem;
   }
+  .ponto-img{
+    padding: 0.85rem;
+  }
 }
